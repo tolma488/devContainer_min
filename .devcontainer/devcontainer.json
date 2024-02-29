@@ -1,0 +1,6 @@
+{
+    "name": "devcontainer_min_test",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "workspaceFolder": "/yw_back"
+}
